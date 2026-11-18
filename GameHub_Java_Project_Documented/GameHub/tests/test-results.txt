@@ -1,0 +1,36 @@
+PASS - Original default constructor
+PASS - Setter and getter
+PASS - Reject volume above 100
+PASS - Invalid setter leaves previous value
+PASS - Reject negative battery
+PASS - Reject negative price
+PASS - Constructor validation
+PASS - Inherited parent attributes
+PASS - Runtime polymorphism: 8, 15, 11 percent
+PASS - Specialized PlayStation setting
+PASS - Specialized Xbox setting
+PASS - Reject invalid vibration
+PASS - Reject invalid duration
+PASS - Reject powered-off session
+PASS - Failed session changes no statistics
+DualSense is now ON.
+PlayStation mode | Adaptive triggers: true | Haptics: true | Touchpad: true
+Session complete. Battery used: 15% | Remaining: 85%
+Battery is sufficient.
+PASS - Successful integrated session
+PASS - Session snapshot
+PASS - Reject duplicate session
+PASS - Reject insufficient battery
+PASS - Rejected session preserves state
+PlayStation mode | Adaptive triggers: true | Haptics: true | Touchpad: true
+Session complete. Battery used: 15% | Remaining: 0%
+Low battery. Please charge.
+Automatic shutdown: battery is empty.
+PASS - Automatic shutdown at zero battery
+PASS - Reject power-on with empty battery
+PASS - Recharge restores battery without changing power state
+PASS - Manager selects controller
+PASS - Reject invalid selection
+PASS - Defensive list copy protects collection
+PASS - Cumulative player statistics
+PASS: 27 checks.

@@ -1,0 +1,337 @@
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: DualSense | 100% | OFF
+Player: Not selected
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: 
+--- Controller 1 (selected) ---
+Brand: Sony
+Model: DualSense
+Battery: 100%
+Volume: 50%
+Price: RM350.00
+Connection: Wireless
+Power: OFF
+Adaptive triggers: true | Haptic feedback: true | Touchpad: true
+
+--- Controller 2 ---
+Brand: Microsoft
+Model: Xbox Controller
+Battery: 75%
+Volume: 60%
+Price: RM299.00
+Connection: Wireless
+Power: OFF
+Vibration: 60% | Custom mapping: false | Impulse triggers: true
+
+--- Controller 3 ---
+Brand: Generic
+Model: Standard Controller
+Battery: 100%
+Volume: 50%
+Price: RM129.00
+Connection: Wireless
+Power: OFF
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: DualSense | 100% | OFF
+Player: Not selected
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: Player name: Favourite game: Player registered and selected: P1
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: DualSense | 100% | OFF
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: DualSense is now ON.
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: DualSense | 100% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: Game name: Duration in minutes (1-480): PlayStation mode | Adaptive triggers: true | Haptics: true | Touchpad: true
+Session complete. Battery used: 15% | Remaining: 85%
+Battery is sufficient.
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: DualSense | 85% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: 
+--- Controller 1 (selected) ---
+Brand: Sony
+Model: DualSense
+Battery: 85%
+Volume: 50%
+Price: RM350.00
+Connection: Wireless
+Power: ON
+Adaptive triggers: true | Haptic feedback: true | Touchpad: true
+
+--- Controller 2 ---
+Brand: Microsoft
+Model: Xbox Controller
+Battery: 75%
+Volume: 60%
+Price: RM299.00
+Connection: Wireless
+Power: OFF
+Vibration: 60% | Custom mapping: false | Impulse triggers: true
+
+--- Controller 3 ---
+Brand: Generic
+Model: Standard Controller
+Battery: 100%
+Volume: 50%
+Price: RM129.00
+Connection: Wireless
+Power: OFF
+Controller number: Selected: Xbox Controller
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: Xbox Controller | 75% | OFF
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: Xbox Controller is now ON.
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: Xbox Controller | 75% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: Volume (0-100): Vibration intensity (0-100): Custom button mapping (y/n): Impulse triggers (y/n): Settings updated. Current volume: 80%
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: Xbox Controller | 75% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: Game name: Duration in minutes (1-480): Xbox mode | Vibration: 70% | Custom mapping: true | Impulse triggers: true
+Session complete. Battery used: 12% | Remaining: 63%
+Battery is sufficient.
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: Xbox Controller | 63% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: --- Session History ---
+S1 | Alex | DualSense | Racing | 60 min | Used: 15% | Remaining: 85%
+S2 | Alex | Xbox Controller | Football | 60 min | Used: 12% | Remaining: 63%
+--- Player Statistics ---
+P1 | Alex | Favourite game: Racing | Total: 120 minutes (2.00 hours)
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: Xbox Controller | 63% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: Model                    Price (RM)    Battery    Use / 60 min
+DualSense                    350.00        85%             15%
+Xbox Controller              299.00        63%             12%
+Standard Controller          129.00       100%              8%
+Battery estimates are simulated, not real hardware measurements.
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: Xbox Controller | 63% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: Xbox Controller: 63%
+Battery is sufficient.
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: Xbox Controller | 63% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: Xbox Controller recharged to 100%.
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: Xbox Controller | 100% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: 1. P1 | Alex | Favourite game: Racing | Total: 120 minutes (2.00 hours)
+Player number: Selected player: Alex
+
+========================================
+          GAMEHUB CONTROLLER SYSTEM
+========================================
+Controller: Xbox Controller | 100% | ON
+Player: Alex
+1. Display all gaming controllers
+2. Register a player
+3. Select gaming controller
+4. Turn controller ON/OFF
+5. Customise controller settings
+6. Start gaming session
+7. Check battery status
+8. Recharge controller
+9. View gaming session summary
+10. Compare controllers
+11. Select registered player
+0. Exit
+Enter your choice: Thank you for using GameHub!
